@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+accessories-shop.cmsmasters.net	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+accessories-shop.cmsmasters.net	TRUE	/	FALSE	1999999999	wp_woocommerce_session_05b6914b81d049b8a9bc6ad3f3527adf	t_0421967dd451a87d1e01533c1a123a%7C%7C1689137533%7C%7C1689133933%7C%7C326ed0196da411c96cbc296a09bd0282
+accessories-shop.cmsmasters.net	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	fee8cd8e57cfe63e26e66cf9600f90e5
+
